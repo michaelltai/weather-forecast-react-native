@@ -97,7 +97,7 @@ function Home(props) {
               </Text>
             </View>
             <View style={{ alignSelf: "center", marginLeft: 20 }}>
-              <Icon name="arrow-right-drop-circle-outline" size={30} />
+              <Icon name="chevron-right" size={30} />
             </View>
           </View>
         </TouchableOpacity>
